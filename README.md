@@ -1,4 +1,4 @@
-# Generative AI and Large Language Models (LLM)
+# 🚀Generative AI and 🔥Large Language Models (LLM)
 
 ### Introduction
 
