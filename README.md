@@ -25,5 +25,6 @@ Closed-source LLMs, such as OpenAI's GPT models, are developed and maintained by
 The future of LLMs is promising, with advancements likely to enhance their capabilities and accessibility. Innovations in model architecture, such as more efficient training techniques and reduced resource consumption, will make them more practical for broader use. Ethical considerations and bias mitigation will become increasingly important, ensuring these models are fair and responsible. Furthermore, the integration of multimodal capabilities, combining text with images and other data types, will expand their applicability, driving further adoption across industries and everyday life.
 LangChain
 
+### Let us follow some tutorials and experiment with llms
 - [01-simple llm](https://github.com/rahulbakshee/llm/blob/main/01-simple-llm.ipynb)
 - [02-simple llm multimodal]()
