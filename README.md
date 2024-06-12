@@ -15,6 +15,7 @@ LLMs are built using deep neural networks, specifically transformer architecture
 ### Common Applications and Use Cases of LLMs
 
 LLMs have a wide array of applications across various domains. In customer service, they power chatbots and virtual assistants that provide quick and accurate responses. In content creation, they assist in drafting articles, generating creative writing, and even composing music. LLMs are also used in translation services, helping to break down language barriers. Additionally, they play a role in educational tools, offering tutoring and personalized learning experiences, and in research, assisting with data analysis and summarization.
+https://python.langchain.com/v0.2/docs/tutorials/
 
 ### Closed-source vs Open-source LLMs
 
