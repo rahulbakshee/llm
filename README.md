@@ -27,4 +27,5 @@ LangChain
 
 ### Let us follow some tutorials and experiment with llms
 - [01-simple llm](https://github.com/rahulbakshee/llm/blob/main/01-simple-llm.ipynb)
-- [02-simple llm multimodal]()
+- [02-simple llm multimodal](https://github.com/rahulbakshee/llm/blob/main/02-simple-llm-multimodal.ipynb)
+- [03-
