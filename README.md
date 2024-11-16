@@ -27,8 +27,7 @@ The future of LLMs is promising, with advancements likely to enhance their capab
 LangChain
 
 ### Use Cases in Pharma and HealthCare
-- [AI assistance for Field Forces](https://github.com/rahulbakshee/llm/blob/main/AI%20assistance%20for%20Field%20Forces.md)
-- 
+- [AI assistance for Field Forces](https://github.com/rahulbakshee/llm/blob/main/AI%20assistance%20for%20Field%20Forces.md) Steps to Design, Develop, and Deploy
 
 
 ### Let us follow some tutorials and experiment with llms
